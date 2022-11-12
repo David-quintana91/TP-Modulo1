@@ -1,0 +1,32 @@
+body{
+    background-image: url(nubes.jpg);
+    
+}
+
+h1{
+    color: rgb(88, 88, 165);
+    text-align: right;
+    text-decoration: line-through;
+}
+
+h3{
+    display: flex;
+    justify-content: center;
+}
+
+h5{
+    display: flex;
+    justify-content: right;
+}
+.contenedor{
+    
+    height: 50vh;
+    margin: 5%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    width: 50%;
+}

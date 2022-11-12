@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+h2{
+    color:aliceblue;
+}
+h3{
+    color: tomato;
+}
+ul{
+   
+}
+li{
+    color:aquamarine;
+    
+}
+img{
+    height: auto;
+    width: auto;
+    max-height: 700px;
+    max-width: 1500px;
+}
+img:hover{
+    transform: translate(0, 100px);
+    transition: 10s;
+}

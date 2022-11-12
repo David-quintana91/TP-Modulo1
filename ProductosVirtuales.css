@@ -1,0 +1,20 @@
+body{
+    background-image: url(stick.jpg);
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    color: green;
+}
+
+h3{
+   color: brown;
+}
+
+.imagen img{
+    height: auto;
+    width: auto;
+    max-height: 500px;
+    max-width: 500px;
+}

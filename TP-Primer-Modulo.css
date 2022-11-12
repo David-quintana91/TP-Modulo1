@@ -1,0 +1,51 @@
+body{
+    background-color: grey;
+}    
+
+ul{
+    list-style-type: none;
+    padding: 0;
+    max-width: 700px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+li{
+    display: inline-block;
+    border: 2px solid black;
+}
+
+a{
+    padding: 8px;
+    display: block;
+    text-decoration: none;
+    cursor: grab;
+}
+a:hover{
+    background-color: rgb(67, 47, 47);
+}
+
+h1{
+    color: tomato;
+    text-align: center;
+    padding: 40;
+    text-decoration: underline;
+}
+
+h2{
+    color: rgb(67, 47, 47);
+    text-align: left;
+    padding: 5px;
+}
+
+img{
+    height: auto;
+    width: auto;
+    max-height: 700px;
+    max-width: 700px;
+}
+
+#container{
+
+}

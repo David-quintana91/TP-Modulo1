@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(35, 90, 35);
+    background-image: url(fondo1.jpg);
+}
+
+.en-stok{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+}
+
+
+img{
+    height: auto;
+    width: auto;
+    max-height: 200px;
+    max-width: 200px;
+}
